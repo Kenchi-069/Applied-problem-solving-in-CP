@@ -1,23 +1,82 @@
-# Applied Problem Solving in Competitive Programming
+# What I Learned – Applied Problem Solving in CP (SoC 2025)
 
-Welcome to the Summer of Code 2025: 8-Week Track on mastering Competitive Programming (CP) through applied problem solving and structured practice.
+This document summarizes my learnings over the 8-week *Applied Problem Solving in Competitive Programming* (SoC 2025) program.
 
-## Recommended Resources
+## Key Takeaways Week-by-Week
 
-### Books and PDFs
-- [Introduction to Algorithms, Fourth Edition (CLRS)](https://drive.google.com/drive/folders/1-KrtV0GGh89Nrhn8cK5GXSShqFfEUBU9?usp=sharing)
-- [Competitive Programming 3 by Steven & Felix Halim](https://files.gitter.im/SamZhangQingChuan/sam/DA1g/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf)
-- [Competitive Programming Handbook (CSES)](https://cses.fi/book.pdf)
+### Week 1: Introductory Problems
+- Mastered CSES basics like Missing Number, Two Knights, and Weird Algorithm
+- Learned efficient brute-force and simulation techniques
+- Built initial speed and accuracy in solving standard problems
 
-### Video Tutorials (Recommended Order)
-- [C++ setup for Visual Studio Code](https://youtu.be/DMWD7wfhgNY?si=ng4nz-uYvURNxQXE)
-- [Complete C++ STL Playlist](https://youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn&si=sCvOud5MMnf1w4sv)
-- [C++ theory](https://youtu.be/OMcxQ3IY-qc?si=lchh39qdIIEfuHB0)
+### Week 2: Sorting + Prefix Sums + Sets
+- Learned about sorting-based logic and multiset applications
+- Solved problems involving prefix sums, event processing, and greedy techniques
+- Developed understanding of time complexity trade-offs
 
-## Problem Solving Platforms
-- [CSES Problem Set](https://cses.fi/problemset/)
-- [LeetCode Practice](https://leetcode.com/)
-- [Codeforces Practice](https://codeforces.com/)
+### Week 3: Binary Search and Variants
+- Practiced binary search on arrays and on answers
+- Understood rotated sorted array problems and frequency-based searches
+- Improved skill in writing custom binary search conditions
+
+### Week 4: Advanced Binary Search
+- Applied binary search to allocation problems like Book Allocation and Aggressive Cows
+- Learned optimization on search space using problem constraints
+- Grasped the pattern of "minimum possible answer" binary search
+
+### Week 5: Strings & Manipulation
+- Practiced real-world string problems like reverse words, anagrams, and palindromes
+- Learned how to handle characters, hash maps, and frequency arrays
+- Gained confidence in parsing and transforming input strings
+
+### Week 6: Recursion & Backtracking
+- Mastered recursive generation of subsets, combinations, and valid parentheses
+- Practiced pruning and backtracking for optimization
+- Understood subset sum variants deeply
+
+### Week 7: Dynamic Programming Basics
+- Learned memoization vs. tabulation
+- Solved problems like Climbing Stairs, House Robber, LCS, LIS
+- Gained foundational understanding of state transition and overlapping subproblems
+
+### Week 8: Advanced DP & Digit DP
+- Implemented subset sum, coin change, edit distance, and digit DP problems
+- Learned how to define tight DP states for optimization
+- Developed logic for base case handling and recursive DP trees
+
+---
+
+##  Concepts Mastered
+- Brute-force and Greedy Patterns
+- Binary Search on Arrays and Answers
+- Sorting and Prefix Sum Techniques
+- Recursion and Backtracking
+- 1D & 2D Dynamic Programming
+- String Manipulation and Frequency Maps
+- Subset, Subsequence & Combination Logic
+- Digit DP (Introductory Level)
+
+---
+
+##  Personal Growth
+- Improved debugging and speed under time constraints
+- Learned to write cleaner, modular code in C++
+- Gained better problem pattern recognition and topic-wise mastery
+- Became confident in applying DSA to real problems systematically
+
+---
+
+##  Tools Used
+- C++ (main language)
+- LeetCode, Codeforces, CSES, GeeksforGeeks
+- VS Code for development
+
+---
+
+**– Prasoon Badjatya**  
+2nd Year, CSE  
+IIT Bombay  
+
 
 # Week 1: Introductory Problems
 ### Main Problems
